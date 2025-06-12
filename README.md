@@ -12,4 +12,5 @@ The program uses a search-based solution to explore possible safe moves and find
 
 ## Example Output
 DFS ['MC', 'M', 'CC', 'C', 'MM', 'MC', 'MM', 'C', 'CC', 'M', 'MC']
+
 BFS ['CC', 'C', 'CC', 'C', 'MM', 'MC', 'MM', 'C', 'CC', 'M', 'MC']
